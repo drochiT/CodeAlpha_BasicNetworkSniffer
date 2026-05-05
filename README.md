@@ -15,6 +15,17 @@ It captures live network traffic and displays important information such as sour
 
 ---
 
+
+## 📚 Learning Outcomes
+
+- Understanding how network packets flow  
+- Basics of TCP/IP protocol structure  
+- Real-time packet capturing using Python  
+- Handling binary and encrypted network data  
+
+---
+
+
 ## 🧰 Technologies Used
 - Python
 - Scapy library
@@ -35,10 +46,3 @@ The program listens to network traffic in real-time and processes each packet:
 ### 1. Install Scapy
 ```bash
 pip install scapy
-
-## 📚 Learning Outcomes
-
-- Understanding how network packets flow  
-- Basics of TCP/IP protocol structure  
-- Real-time packet capturing using Python  
-- Handling binary and encrypted network data  
