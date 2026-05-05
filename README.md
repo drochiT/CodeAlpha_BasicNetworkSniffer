@@ -46,3 +46,8 @@ The program listens to network traffic in real-time and processes each packet:
 ### 1. Install Scapy
 ```bash
 pip install scapy
+
+### 2. Run the program
+sudo python sniffer.py
+
+
