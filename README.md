@@ -59,21 +59,23 @@ The program listens to network traffic in real-time and processes each packet:
 
 ### 1. Install Scapy
 ```bash
-pip install scapy
+pip3 install scapy
+```
 
 ### 2. Run the program
-sudo python sniffer.py
+```bash
+sudo python3 sniffer.py
+```
 
-
-----
-
+---
 
 ## ⚠️ Ethical Use Disclaimer
+
+
 This project is developed strictly for educational purposes only.  
 It should only be used for authorized network monitoring and learning.  
 Unauthorized packet sniffing or interception of networks without permission is illegal and unethical.
----
+
 
 ## 👤 Author
-
-Victor Ugwuanyi
+ Victor Ugwuanyi
