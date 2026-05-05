@@ -65,6 +65,9 @@ pip install scapy
 sudo python sniffer.py
 
 
+----
+
+
 ## ⚠️ Ethical Use Disclaimer
 This project is developed strictly for educational purposes only.  
 It should only be used for authorized network monitoring and learning.  
