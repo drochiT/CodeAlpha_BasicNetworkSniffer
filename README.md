@@ -26,6 +26,20 @@ It captures live network traffic and displays important information such as sour
 ---
 
 
+## 🧠 Skills Gained
+
+- Network Traffic Analysis
+- Packet Inspection & Protocol Analysis 
+- Python for Cybersecurity
+- Basic Threat Detection Techniques 
+- Security Monitoring Concepts (SOC)
+
+
+----
+
+
+
+
 ## 🧰 Technologies Used
 - Python
 - Scapy library
@@ -51,3 +65,12 @@ pip install scapy
 sudo python sniffer.py
 
 
+## ⚠️ Ethical Use Disclaimer
+This project is developed strictly for educational purposes only.  
+It should only be used for authorized network monitoring and learning.  
+Unauthorized packet sniffing or interception of networks without permission is illegal and unethical.
+---
+
+## 👤 Author
+
+Victor Ugwuanyi
